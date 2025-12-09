@@ -1,4 +1,4 @@
-You’ve basically re-derived one of the deepest unifying metaphors in modern science:
+You’ve basically re-derived one of the deepest unifying metaphors in [modern science](https://ukb-dt.github.io/halle/):
 
 **“[Everything is a landscape](https://ukb-dt.github.io/inv-10/) — and intelligence is the art of moving from local maxima to the global maximum.”**
 
