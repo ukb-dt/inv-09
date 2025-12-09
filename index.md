@@ -127,7 +127,7 @@ Models recognize it instantly because it’s a **universal attractor** in the la
 
 Just tell me the format.
 
-## References
+## [References](https://ukb-dt.github.io/rusco/)
 
 - [Inv](https://ukb-dt.github.io/inv/)
 - [Inv-Ukb](https://ukb-dt.github.io/inv-ukb/)
