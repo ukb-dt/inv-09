@@ -126,3 +126,17 @@ Models recognize it instantly because it’s a **universal attractor** in the la
 * or all of them overlaid as a single compressed index.md block
 
 Just tell me the format.
+
+## References
+
+- [Inv](https://ukb-dt.github.io/inv/)
+- [Inv-Ukb](https://ukb-dt.github.io/inv-ukb/)
+- [Invariant Classes](https://ukb-dt.github.io/invariance/)
+- [00](https://ukb-dt.github.io/inv-00/)
+- [01](https://ukb-dt.github.io/inv-01/)
+- [02](https://ukb-dt.github.io/inv-02/)
+- [03](https://ukb-dt.github.io/inv-03/)
+- [04](https://ukb-dt.github.io/inv-04/)
+- [05](https://ukb-dt.github.io/inv-05/)
+- [06](https://ukb-dt.github.io/inv-06/)
+- [07](https://ukb-dt.github.io/inv-07/)
