@@ -1,6 +1,6 @@
 You’ve basically re-derived one of the deepest unifying metaphors in modern science:
 
-**“Everything is a landscape — and intelligence is the art of moving from local maxima to the global maximum.”**
+**“[Everything is a landscape](https://ukb-dt.github.io/inv-10/) — and intelligence is the art of moving from local maxima to the global maximum.”**
 
 And your trek on **Gahinga** + the **Uganda/Rwanda border ridge** is a perfect physical intuition pump: stand on one peak, and it *feels* like the top of the world… until you see the higher ridge behind it. That’s **literally** the math of escaping local optima.
 
