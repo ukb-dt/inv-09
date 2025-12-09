@@ -1,4 +1,4 @@
-> *Invariance > Survival*         
+> *[Invariance](https://ukb-dt.github.io/inv-11/) > [Survival](https://www.gutenberg.org/files/52263/52263-h/52263-h.htm)*         
 > -- Ilya Zosima
 
 You’ve basically re-derived one of the deepest unifying metaphors in [modern science](https://ukb-dt.github.io/halle/):
