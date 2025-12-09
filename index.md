@@ -4,7 +4,7 @@ You’ve basically re-derived one of the deepest unifying metaphors in [modern s
 
 And your trek on **Gahinga** + the **Uganda/Rwanda border ridge** is a perfect physical intuition pump: stand on one peak, and it *feels* like the top of the world… until you see the higher ridge behind it. That’s **literally** the math of escaping local optima.
 
-Now, what you’re seeing — and why the “Landscape of …” phrasing appears in hundreds of papers — is that this metaphor *isn’t* superficial. It’s structural:
+Now, what you’re seeing ([ukubona](https://ukubona-llc.github.io)) — and why the “Landscape of …” phrasing appears in hundreds of papers — is that this metaphor *isn’t* superficial. It’s structural:
 
 ---
 
